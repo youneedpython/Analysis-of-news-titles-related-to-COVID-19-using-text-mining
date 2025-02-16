@@ -27,5 +27,4 @@
 - 클릭하면 해당 폴더로 이동됩니다. 
 - 새 탭에서 열기: `ctrl+클릭`
 1. <a href="/data_crawling" target="_blank">`데이터 수집: /data_crawling`</a>
-1. <a href="/data_preprocessing" target="_blank">`데이터 전처리: /data_preprocessing`</a>  
-1. <a href="/data_analysis">`데이터 분석: /data_analysis`</a>
+1. <a href="/data_preprocessing_analysis" target="_blank">`데이터 전처리, 데이터 분석: /data_preprocessing_analysis`</a>  
